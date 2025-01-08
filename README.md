@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f4008e96-2fc6-4deb-96a8-8cf1eafacea1)# Next-AI: Web-Based Q&A AI Agent for PDF Document Queries
+# Next-AI: Web-Based Q&A AI Agent for PDF Document Queries
 
 ## Project Introduction
 
@@ -7,6 +7,8 @@
 - **Frontend:** Built with React
 - **Backend:** Powered by Node.js and Express
 - **AI Integration:** Utilizes OpenAI API for natural language processing
+- 
+![image](https://github.com/user-attachments/assets/f4008e96-2fc6-4deb-96a8-8cf1eafacea1)
 
 ## Demo Video
 
