@@ -1,4 +1,4 @@
-# Next-AI: Web-Based Q&A AI Agent for PDF Document Queries
+# Next-AI: Web-Based Q&A Agent for PDF Document Interaction
 
 ## Project Introduction
 
