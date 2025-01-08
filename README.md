@@ -1,4 +1,4 @@
-# Next-AI: Web-Based Q&A AI Agent for PDF Document Queries
+![image](https://github.com/user-attachments/assets/f4008e96-2fc6-4deb-96a8-8cf1eafacea1)# Next-AI: Web-Based Q&A AI Agent for PDF Document Queries
 
 ## Project Introduction
 
@@ -10,7 +10,7 @@
 
 ## Demo Video
 
-[![Demo Video](https://img.youtube.com/vi/15BIf1xnQI4/0.jpg)](https://drive.google.com/file/d/15BIf1xnQI4hd_g-rZrbCd4aG0ANzY6-A/view?usp=drive_link)
+[![Demo](https://img.youtube.com/vi/qP7mNcAYNjk/0.jpg)](https://www.youtube.com/watch?v=qP7mNcAYNjk&t=11s)
 
 *Click the image above to watch the demo video.*
 
