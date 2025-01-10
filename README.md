@@ -1,4 +1,4 @@
-### **Next AI Demo**
+### **Next AI **
 - Built an interactive AI-powered application using React and Ant Design, enabling real-time upload and interaction with PDF documents.
 - Developed high-performance RESTful APIs using Express and Node.js to optimize request handling.
 - Integrated an in-memory vector store to cache document embeddings, ensuring efficient data retrieval.
